@@ -4,9 +4,10 @@ body {
 }
 
 .card {
-  width: 400px;
+  width: 580px;
   background: #fff;
   margin: 16px auto;
+  border: 20px solid white;
 }
 
 .title {
