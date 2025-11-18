@@ -28,6 +28,8 @@ body {
 }
 
 button {
+  display:block;
+  margin-left: 180px;
   background: white;
   border: 1px solid #eee;
 }
