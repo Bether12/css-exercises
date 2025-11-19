@@ -35,6 +35,7 @@ body {
 .footer{
   margin-top: auto;
   display: flex;
+  background-color: #eeeeee;
 }
 
 ul{
