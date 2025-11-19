@@ -19,7 +19,7 @@ body {
 .left, .right{
   display: flex;
   align-items: center;
-  gap: 7px;
+  gap: 10px;
 }
 
 .left{
