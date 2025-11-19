@@ -12,10 +12,12 @@ body {
 
 .header{
   margin-bottom: auto;
+  display: flex;
 }
 
 .footer{
   margin-top: auto;
+  display: flex;
 }
 
 ul{
