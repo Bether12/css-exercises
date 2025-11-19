@@ -19,6 +19,7 @@ body {
 .left, .right{
   display: flex;
   align-items: center;
+  gap: 7px;
 }
 
 .profile-image {
