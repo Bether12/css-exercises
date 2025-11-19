@@ -15,6 +15,14 @@ body {
   display: flex;
 }
 
+.left-links{
+  margin-right: auto;
+}
+
+.right-links{
+  margin-left: auto;
+}
+
 .footer{
   margin-top: auto;
   display: flex;
