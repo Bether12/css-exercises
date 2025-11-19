@@ -17,11 +17,13 @@ body {
 .left-links{
   margin-right: auto;
   display: flex;
+  gap: 10px;
 }
 
 .right-links{
   margin-left: auto;
   display: flex;
+  gap: 10px;
 }
 
 .content{
