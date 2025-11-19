@@ -17,10 +17,12 @@
 
 .left-links{
   margin-right: auto;
+  margin-left: 10px;
 }
 
 .right-links{
   margin-left: auto;
+  margin-right: 10px;
 }
 
 ul {
