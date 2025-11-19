@@ -20,6 +20,10 @@ img {
   align-items: center;
 }
 
+.container .card .text{
+  text-align: center;
+}
+
 .card{
   display: flex;
   flex-direction: column;
