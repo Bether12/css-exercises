@@ -10,6 +10,14 @@ body {
   align-items: center;
 }
 
+.header{
+  margin-bottom: auto;
+}
+
+.footer{
+  margin-top: auto;
+}
+
 ul{
   list-style-type: none;
 }
