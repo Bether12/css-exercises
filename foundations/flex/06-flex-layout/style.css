@@ -16,10 +16,12 @@ body {
 
 .left-links{
   margin-right: auto;
+  display: flex;
 }
 
 .right-links{
   margin-left: auto;
+  display: flex;
 }
 
 .content{
