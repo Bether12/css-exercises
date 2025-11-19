@@ -19,6 +19,11 @@ body {
   margin-top: auto;
 }
 
+.content{
+  display: flex;
+  flex-grow: 3;
+}
+
 .sidebar {
   width: 300px;
   background: royalblue;
