@@ -17,6 +17,9 @@
   margin-right: auto;
 }
 
+.right-links{
+  margin-left: auto;
+}
 
 ul {
   /* this removes the dots on the list items*/
