@@ -46,3 +46,10 @@ html {
   color: white;
   text-align: left;
 }
+
+/*the grid related rules starts from here*/
+
+.container{
+  display: grid;
+  grid-template: repeat(8, 50px)/100px 100px 100px 100px ;
+}
