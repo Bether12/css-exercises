@@ -16,12 +16,26 @@
 }
 
 .header {
+  display: grid;
+  grid-template: 1fr / 1fr 1.5fr;
+  align-items: center;
   background-color: #393f4d;
+}
+
+.header .logo{
+  justify-self: left;
+}
+
+.menu ul{
+  display: grid;
+  gap: 10px;
+  grid-template: 1fr / repeat(4, 1fr);
 }
 
 .menu ul,
 .menu li {
   font-size: 16px;
+  list-style: none;
 }
 
 .sidebar {
