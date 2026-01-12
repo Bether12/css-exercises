@@ -73,10 +73,20 @@
 }
 
 .nav {
+  display: grid;
+  grid-template-rows: 1fr;
+  align-items: center;
   background-color: #C50208;
 }
 
+.nav >ul{
+  display: grid;
+  grid-template: 1fr / repeat(3, 1fr);
+  align-items: center;
+}
+
 .nav ul li {
+  list-style: none;
   font-size: 16px;
   text-transform: uppercase;
 }
